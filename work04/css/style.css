@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/*全体*/
+body {
+    font-size: 1.4rem;
+    background-color: #a4c1d7;
+}
+
+button {
+    border: 1px solid;
+}
+
+textarea {
+    font-size: 1rem;
+}
+
+#ans {
+    display: none;
+}
+/*<!-- ホーム画面エリア -->*/
+
+
+/*<!-- ロゴ -->*/
+/*<!-- ホーム画面に戻る -->*/
+.home_help {
+    text-align: right;
+}
+/*<!-- HELP -->*/
+/*<!-- タイトル -->*/
+h1 {
+    background-color: #26499d;
+    color: #ffffff;
+    text-align: center;
+
+}
+/*<!-- 使い方説明（HELP） -->*/
+/*<!-- １〜６年生選択ボタン -->*/
+.grade button {
+    display: block;
+    margin: 1rem auto;
+}
+
+/*<!-- 設定 -->*/
+
+
+/*<!-- メインエリア -->*/
+/*<!-- 問題、例文 -->*/
+.quest {
+    margin: 0 auto;
+    width: 50vw;
+}
+/*<!-- 分かるor分からない選択 -->*/
+.ans {
+    text-align: center;
+
+}
+.next {
+    text-align: center;
+}
+/*<!-- 答え -->*/
+/*<!-- 次の問題へ -->*/
+
+
+
+
+/*<!-- コピーライト -->*/
+footer {
+    background-color: #40e0d0;
+
+}
