@@ -1,3 +1,1 @@
-My first git working.
-!!!!!!!!!!!!!!!!!
-commit changes
+6回目
