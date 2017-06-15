@@ -1,7 +1,7 @@
 <?php
 //1.  DB接続します
 try {
-  $pdo = new PDO('mysql:dbname=noro9_gs_db;charset=utf8;host=mysql612.db.sakura.ne.jp','noro9','noro9noro9');
+  $pdo = new PDO('mysql:dbname=******;charset=utf8;host=********','***','***');
 } catch (PDOException $e) {
   exit('データベースに接続できませんでした。'.$e->getMessage());
 }
