@@ -4,7 +4,7 @@
 //DB接続関数（PDO）
 function db_con(){
 try {
-$pdo = new PDO('mysql:dbname=noro9_gs_db;charset=utf8;host=mysql612.db.sakura.ne.jp','noro9','noro9noro9');
+$pdo = new PDO('mysql:dbname=******;charset=utf8;host=******','******','******');
 
   // $pdo = new PDO('mysql:dbname=gs_db;charset=utf8;host=localhost','root','root');
 } catch (PDOException $e) {
